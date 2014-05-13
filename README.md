@@ -1,4 +1,4 @@
 semaphore_sms
 =============
 
-hackathon 2014
+this app is created for hackathon 2014
